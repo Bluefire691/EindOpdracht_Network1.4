@@ -6,11 +6,6 @@ import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-import java.awt.*;
-import java.awt.Button;
-import java.awt.Label;
-import java.awt.TextArea;
-import java.awt.TextField;
 import java.io.*;
 import java.net.Socket;
 import java.util.regex.Pattern;
@@ -109,5 +104,4 @@ public class Client extends Application {
         }
     }
 }
-
 
